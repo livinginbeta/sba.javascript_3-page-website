@@ -1,4 +1,4 @@
-body {
+html body {
     background-color: whitesmoke;
 }
 
@@ -31,10 +31,6 @@ a {
 .footer {
     color: darkgoldenrod;
     font-size: 15px;
-}
-
-#hands {
-    float: right;
 }
 
 .testimonial {
