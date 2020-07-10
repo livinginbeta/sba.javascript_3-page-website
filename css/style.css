@@ -1,8 +1,84 @@
 body {
-    background-color: navy;
+    background-color: whitesmoke;
 }
 
+#column1 {
+    float: left;
+    margin-left: 13.2px;
+    margin-top: 10px;     
+}  
 
+a:hover{
+	color: darkslateblue;
+    font-weight: bold;
+    text-decoration: none;
+	
+}
+
+a {
+    color:darkgoldenrod;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navTable {
+    padding: 0 60px 0 60px;
+    width: 33%;
+    text-align: center;
+}
+
+.footer {
+    color: darkgoldenrod;
+    font-size: 15px;
+}
+
+#hands {
+    float: right;
+}
+
+.testimonial {
+    border-top: 1px solid darkgoldenrod;
+    font-size: 20px;
+    font-style: italic;
+    border-bottom: 1px solid darkgoldenrod;
+}
+
+.source::before {
+    content: "\a";
+    white-space: pre;
+}
+
+.color {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+
+.rounded{
+	border: none;
+	border-radius: 7px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	background-color: black;
+	padding: .5em 0 .5em 0;
+	margin: .2em;
+	width: 7em;
+	height: 3em;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,.4);
+}
+
+.rounded:hover{
+	color: black;
+	background-color: white;
+}  
+
+.robot{
+	color: red;
+	font-weight: bold;
+	display: inline;
+}
+ 
 object {
     height: 100vh;
     width: 100vh;
