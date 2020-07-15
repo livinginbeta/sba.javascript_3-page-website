@@ -1,5 +1,7 @@
 # AD - SBA - HTML/CSS/JavaScript - UPDATE
 
+Access my site by navigating to the following link: https://livinginbeta.github.io/sba.javascript_3-page-website/
+
 LastFavors.com is the website for an application that helps people navigate the tumultous timeframe after a loved one dies, whether unexpectedly or not. it provides for the collection of wants and requests by a person for after they pass (who should be invited -- or not -- to their funeral, what kind of music and service it should be, information about life insurance, whether they want to be buried or cremated, etc.) it also serves as a guide for someone one who might not know whom to contact after experiencing the loss of a loved one, what steps need to happen, LastFavors.com will also suggest local officiants for any resulting religious services, grief counselors for peace of mind, estate lawyers, funeral homes, etc.
 
 Bootrap was employed to take advantage of its grid system as a skeleton for the site's page structure. HTML, CSS, and Javascript were used to meet assignment requirements, such as multiple forms (done in HTML), media (video, an animated GIF, and images). Two of the images were created in Photoshop.
