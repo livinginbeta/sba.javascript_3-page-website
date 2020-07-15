@@ -1,6 +1,6 @@
-document.getElementById("contactForm").addEventListener("submit", myFunction);
+document.getElementById("contactForm").addEventListener("submit", formAlert);
 
-function myFunction() {
+function formAlert() {
     var cForm=document.getElementById("contactForm");
     var nameArray = new Array();
     var counter = 0;
@@ -9,7 +9,7 @@ function myFunction() {
             nameArray[counter] = cForm.elements[i].value;
             counter++;            
             if (counter == 2) {
-                alert("Thank you, " + nameArray[0] + " " + nameArray[1] + ", your form has is about to be submitted. If requested, we will respond to you within 48 hours.");
+                alert("Thank you, " + nameArray[0] + " " + nameArray[1] + ", your form is about to be submitted. If requested, we will respond to you within 48 hours.");
             }
         }       
     }
